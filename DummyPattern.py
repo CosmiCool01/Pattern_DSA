@@ -1,1 +1,0 @@
-print("Dummy Pattern .Its not new!!!!! ")
